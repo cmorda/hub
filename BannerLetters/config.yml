@@ -1,0 +1,8 @@
+#BannerLetters Config
+serverID: 0 #Don't change!
+bannerlore: rnum #The rnum gets replaced with a random black number which cant be seen but is important to keep the banners with the same letters from stacking.
+enablePastebin: true #If the (pastebin:<pasteID>) symbol is enabled
+pastebinURL: http://pastebin.com/raw.php?i=symbolID #symbolID is replaced by the value behind the ":" (pastebin:somevalue)
+#The pastebinURL should not be changed if you don't know what you are doing. The only of this value is maybe to use another/your own pastebin website
+#(Watch out, the url needs to return the raw xml file!)
+enableStats: true #If the plugin reports things like the java version, os and more to the server

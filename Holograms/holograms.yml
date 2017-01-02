@@ -1,0 +1,34 @@
+holograms:
+  skyblock:
+    location: world;-357.5;18.0;-71.5;71.10001;-86.45051
+    lines:
+    - §2§l§nSkyblock
+    - §0[§a1.10§0]
+  skygrid:
+    location: world;-378.5;18.0;-50.5;19.050001;9.849381
+    lines:
+    - §b§l§nSkygrid
+    - §0[§a1.10§0]
+  Prison:
+    location: world;-356.19214144436165;36.11813584628722;-93.7252894015129;52.95005;-82.55151
+    lines:
+    - §7§l§nPrison
+  Plots:
+    location: world;-378.5;18.0;-92.5;72.600006;-177.6506
+    lines:
+    - §d§l§nPlots
+    - §0[§a1.10§0]
+  factions:
+    location: world;-354.0462203588353;36.11813584628722;-93.7243029593102;58.20001;-89.151245
+    lines:
+    - §9§l§nFactions
+  Survival:
+    location: world;-399.5;18.0;-71.5;16.65001;-269.90094
+    lines:
+    - §c§l§nSurvival
+    - §0[§a1.11.2§0]
+  Version:
+    location: world;-376.20347883111435;18.005528692423113;-71.5190198508943;39.749985;-90.04968
+    lines:
+    - §aAll Servers 1.10 or 1.11+ Only
+    - §eSurvival Server 1.11.2 only

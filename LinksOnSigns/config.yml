@@ -1,0 +1,11 @@
+# CONFIG: stdLINE0, stdLINE3
+stdLINE0: '&9[URL]'
+stdLINE3: '&cclick me'
+preReplaceIdentifier: newurl
+displayTriggerMessage: '&5Please click the link above.'
+useTinyUrlShortener: false
+alsoTriggerOnPunch: true
+linkFormat: '&3URL: %LINK%'
+useJSONRawSend: false
+uploadErrorStackTraces: false
+enableMetrics: true

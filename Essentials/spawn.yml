@@ -1,0 +1,22 @@
+spawns: 
+  owner: 
+    world: world
+    x: -378.5
+    y: 17.0
+    z: -71.5
+    yaw: 0.0
+    pitch: 0.0
+  help: 
+    world: world
+    x: -381.99645213962117
+    y: 16.0
+    z: -71.16849999402476
+    yaw: -239.85002
+    pitch: 29.1
+  default: 
+    world: world
+    x: -378.5
+    y: 17.0
+    z: -71.5
+    yaw: 0.0
+    pitch: 0.0

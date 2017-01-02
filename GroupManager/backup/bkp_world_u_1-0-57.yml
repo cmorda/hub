@@ -1,0 +1,26 @@
+users:
+  2e2dfb1d-714b-4e30-9c21-52b4d8acb555:
+    lastname: _Syntax_Error
+    group: Owner
+    subgroups: []
+    permissions: []
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  f95077c4-6e99-4e52-af50-e077a2962e23:
+    lastname: Gez_
+    group: Admin
+    subgroups: []
+    permissions: []
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
