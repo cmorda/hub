@@ -4,23 +4,8 @@ users:
     group: Owner
     subgroups: []
     permissions: []
-  ElgarL:
-    group: Moderator
-    subgroups: []
-    permissions:
-    - groupmanager.noofflineperms
   f95077c4-6e99-4e52-af50-e077a2962e23:
     lastname: Gez_
     group: Admin
     subgroups: []
     permissions: []
-  KHobbits:
-    group: Moderator
-    subgroups: []
-    permissions:
-    - groupmanager.noofflineperms
-  snowleo:
-    group: Builder
-    subgroups: []
-    permissions:
-    - groupmanager.noofflineperms
